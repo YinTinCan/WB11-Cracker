@@ -1,5 +1,4 @@
-hi yes testing testing
-**woaaa**
-# hi
-##hi
-## hi
+# Description
+funny batfile for windowblinds11
+resets trial
+just install and run 
